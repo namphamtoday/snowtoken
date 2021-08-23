@@ -1,4 +1,4 @@
-package jwt
+package snow_jwt
 
 import (
 	"fmt"

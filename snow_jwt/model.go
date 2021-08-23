@@ -1,4 +1,4 @@
-package jwt
+package snow_jwt
 
 type TokenResponse struct {
 	AccessToken  string `xmlrpc:"access_token" json:"access_token" form:"access_token"`
