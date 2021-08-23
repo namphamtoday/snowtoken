@@ -1,4 +1,4 @@
-module snowtoken
+module github.com/namphamtoday/snowtoken
 
 go 1.16
 
