@@ -1,4 +1,4 @@
-package snowtoken
+package jwt
 
 import (
 	"fmt"
